@@ -14,6 +14,12 @@
 	<link rel="stylesheet" href="<?= base_url() ?>/assets/style.css">
 	<link rel="stylesheet" href="<?= base_url() ?>/assets/css/colors.css">
 	<link rel="stylesheet" href="<?= base_url() ?>/assets/css/responsive.css">
+
+	<meta property="og:url"                content="<?= base_url() ?>" />
+	<meta property="og:type"               content="website" />
+	<meta property="og:title"              content="Alpha Konstruksi Nusantara | Perusahaan Pengeboran Indonesia" />
+	<meta property="og:description"        content="PT Alpha Konstruksi Nusantara merupakan perusahaan kontraktor yang bergerak di bidang geoteknik. Spesialisasi kami adalah dalam melakukan pengeboran struktural." />
+	<meta property="og:image"              content="<?= base_url() ?>/assets/images/ogImage.png" />
 </head>
 <body>
 	<div id="pageWrapper">
