@@ -1,1 +1,315 @@
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 46 46"><style>.st0{clip-path:url(#SVGID_2_);fill:#fff}</style><defs><path id="SVGID_1_" d="M0 0h46v46H0z"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_" overflow="visible"/></clipPath><path class="st0" d="M46 1.1c0-.6-.5-1.1-1.1-1.1h-5.5c-.6 0-1.1.5-1.1 1.1v1.4c0 .1-.1.3-.3.3H26.9c-.1 0-.2-.1-.2-.2C26.1 1 24.6 0 23 0s-3.1 1-3.6 2.6c0 .1-.1.2-.2.2H7.9c-.1 0-.3-.1-.3-.3V1.1C7.7.5 7.2 0 6.6 0H1.1C.5 0 0 .5 0 1.1v5.5c0 .6.5 1.1 1.1 1.1h5.5c.6 0 1.1-.5 1.1-1.1V5.2c0-.1.1-.3.3-.3h5.7c.1 0 .2.1.2.2s0 .2-.1.3c-4.7 3-7.8 8.1-8.1 13.8 0 .1-.1.2-.2.2-1.5.5-2.6 2-2.6 3.6 0 2.1 1.7 3.8 3.8 3.8 2.1 0 3.8-1.7 3.8-3.8 0-1.6-1-3-2.5-3.6-.1 0-.2-.1-.2-.3C8.3 12.6 13 7 19.3 5.4c.1 0 .2 0 .3.1.7 1.3 2 2.1 3.4 2.1s2.8-.8 3.4-2.1c0-.1.1-.1.2-.1h.1c6.3 1.6 11 7.2 11.5 13.7 0 .1-.1.2-.2.3-1.5.6-2.5 2-2.5 3.6 0 2.1 1.7 3.8 3.8 3.8 2.1 0 3.8-1.7 3.8-3.8 0-1.6-1-3.1-2.6-3.6-.1 0-.2-.1-.2-.2-.2-5.7-3.3-10.8-8-13.8-.1-.1-.1-.2-.1-.3 0-.1.1-.2.2-.2h5.7c.1 0 .3.1.3.3v1.4c0 .6.5 1.1 1.1 1.1H45c.6 0 1.1-.5 1.1-1.1V1.1zM5.5 5.2c0 .1-.1.3-.3.3H2.5c-.1 0-.3-.1-.3-.3V2.5c0-.1.1-.3.3-.3h2.7c.1 0 .3.1.3.3v2.7zM8.3 23c0 .9-.7 1.6-1.6 1.6-.9 0-1.7-.7-1.7-1.6 0-.9.7-1.6 1.6-1.6.9 0 1.7.7 1.7 1.6M23 5.5c-.9 0-1.6-.7-1.6-1.6 0-.9.7-1.6 1.6-1.6.9 0 1.6.7 1.6 1.6 0 .8-.7 1.6-1.6 1.6m16.4 15.9c.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.9 0-1.6-.7-1.6-1.6-.1-.9.7-1.6 1.6-1.6m4.4-16.2c0 .1-.1.3-.3.3h-2.7c-.1 0-.3-.1-.3-.3V2.5c0-.1.1-.3.3-.3h2.7c.1 0 .3.1.3.3v2.7z"/><path class="st0" d="M34.8 27.8L23.9 11.5s0-.1-.1-.1c-.2-.3-.5-.4-.8-.4-.4 0-.7.2-.9.5L11.2 27.8c-.3.4-.2 1 .1 1.4 2.7 2.7 4.5 6.4 5 10.2 0 .1 0 .2-.1.2-.2.2-.4.3-.6.5-1.2 1.3-1.9 2.9-1.9 4.7 0 .6.5 1.1 1.1 1.1h16.4c.6 0 1.1-.5 1.1-1.1 0-1.8-.7-3.4-1.9-4.7-.2-.2-.4-.4-.6-.5-.1-.1-.1-.1-.1-.2.5-3.9 2.3-7.5 5-10.2.4-.3.4-.9.1-1.4m-11.8-1c.9 0 1.6.7 1.6 1.6 0 .9-.7 1.6-1.6 1.6-.9 0-1.6-.7-1.6-1.6 0-.8.7-1.6 1.6-1.6m6.8 16.6v.2c0 .1-.1.1-.2.1H16.4c-.1 0-.2 0-.2-.1s-.1-.2 0-.2c.6-1.8 2.3-3 4.1-3h5.5c1.7.1 3.4 1.3 4 3m2.6-14.9c-2.5 2.8-4.1 6.1-4.7 9.8 0 .1-.1.1-.1.2h-.1-.1c-.5-.1-1.1-.2-1.6-.2h-5.5c-.5 0-1.1.1-1.6.2h-.2c-.1 0-.1-.1-.1-.2-.6-3.6-2.3-7-4.7-9.8-.1-.1-.1-.2 0-.3l7.8-11.7c.1-.1.2-.1.3-.1.1 0 .2.1.2.2v8c0 .1-.1.2-.2.2-1.5.5-2.6 2-2.6 3.6 0 2.1 1.7 3.8 3.8 3.8s3.8-1.7 3.8-3.8c0-1.6-1-3.1-2.6-3.6-.1 0-.2-.1-.2-.2v-8c0-.1.1-.2.2-.2s.2 0 .3.1l7.8 11.7c.1.1.1.2.1.3"/></svg>
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION ENVIRONMENT
+ *---------------------------------------------------------------
+ *
+ * You can load different configurations depending on your
+ * current environment. Setting the environment also influences
+ * things like logging and error reporting.
+ *
+ * This can be set to anything, but default usage is:
+ *
+ *     development
+ *     testing
+ *     production
+ *
+ * NOTE: If you change these, also change the error_reporting() code below
+ */
+	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+
+/*
+ *---------------------------------------------------------------
+ * ERROR REPORTING
+ *---------------------------------------------------------------
+ *
+ * Different environments will require different levels of error reporting.
+ * By default development will show errors but testing and live will hide them.
+ */
+switch (ENVIRONMENT)
+{
+	case 'development':
+		error_reporting(-1);
+		ini_set('display_errors', 1);
+	break;
+
+	case 'testing':
+	case 'production':
+		ini_set('display_errors', 0);
+		if (version_compare(PHP_VERSION, '5.3', '>='))
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT & ~E_USER_NOTICE & ~E_USER_DEPRECATED);
+		}
+		else
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE);
+		}
+	break;
+
+	default:
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'The application environment is not set correctly.';
+		exit(1); // EXIT_ERROR
+}
+
+/*
+ *---------------------------------------------------------------
+ * SYSTEM DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * This variable must contain the name of your "system" directory.
+ * Set the path if it is not in the same directory as this file.
+ */
+	$system_path = 'system';
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want this front controller to use a different "application"
+ * directory than the default one you can set its name here. The directory
+ * can also be renamed or relocated anywhere on your server. If you do,
+ * use an absolute (full) server path.
+ * For more info please see the user guide:
+ *
+ * https://codeigniter.com/user_guide/general/managing_apps.html
+ *
+ * NO TRAILING SLASH!
+ */
+	$application_folder = 'application';
+
+/*
+ *---------------------------------------------------------------
+ * VIEW DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want to move the view directory out of the application
+ * directory, set the path to it here. The directory can be renamed
+ * and relocated anywhere on your server. If blank, it will default
+ * to the standard location inside your application directory.
+ * If you do move this, use an absolute (full) server path.
+ *
+ * NO TRAILING SLASH!
+ */
+	$view_folder = '';
+
+
+/*
+ * --------------------------------------------------------------------
+ * DEFAULT CONTROLLER
+ * --------------------------------------------------------------------
+ *
+ * Normally you will set your default controller in the routes.php file.
+ * You can, however, force a custom routing by hard-coding a
+ * specific controller class/function here. For most applications, you
+ * WILL NOT set your routing here, but it's an option for those
+ * special instances where you might want to override the standard
+ * routing in a specific front controller that shares a common CI installation.
+ *
+ * IMPORTANT: If you set the routing here, NO OTHER controller will be
+ * callable. In essence, this preference limits your application to ONE
+ * specific controller. Leave the function name blank if you need
+ * to call functions dynamically via the URI.
+ *
+ * Un-comment the $routing array below to use this feature
+ */
+	// The directory name, relative to the "controllers" directory.  Leave blank
+	// if your controller is not in a sub-directory within the "controllers" one
+	// $routing['directory'] = '';
+
+	// The controller class file name.  Example:  mycontroller
+	// $routing['controller'] = '';
+
+	// The controller function you wish to be called.
+	// $routing['function']	= '';
+
+
+/*
+ * -------------------------------------------------------------------
+ *  CUSTOM CONFIG VALUES
+ * -------------------------------------------------------------------
+ *
+ * The $assign_to_config array below will be passed dynamically to the
+ * config class when initialized. This allows you to set custom config
+ * items or override any default config values found in the config.php file.
+ * This can be handy as it permits you to share one application between
+ * multiple front controller files, with each file containing different
+ * config values.
+ *
+ * Un-comment the $assign_to_config array below to use this feature
+ */
+	// $assign_to_config['name_of_config_item'] = 'value of config item';
+
+
+
+// --------------------------------------------------------------------
+// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
+// --------------------------------------------------------------------
+
+/*
+ * ---------------------------------------------------------------
+ *  Resolve the system path for increased reliability
+ * ---------------------------------------------------------------
+ */
+
+	// Set the current directory correctly for CLI requests
+	if (defined('STDIN'))
+	{
+		chdir(dirname(__FILE__));
+	}
+
+	if (($_temp = realpath($system_path)) !== FALSE)
+	{
+		$system_path = $_temp.DIRECTORY_SEPARATOR;
+	}
+	else
+	{
+		// Ensure there's a trailing slash
+		$system_path = strtr(
+			rtrim($system_path, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		).DIRECTORY_SEPARATOR;
+	}
+
+	// Is the system path correct?
+	if ( ! is_dir($system_path))
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your system folder path does not appear to be set correctly. Please open the following file and correct this: '.pathinfo(__FILE__, PATHINFO_BASENAME);
+		exit(3); // EXIT_CONFIG
+	}
+
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
+	// The name of THIS file
+	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
+
+	// Path to the system directory
+	define('BASEPATH', $system_path);
+
+	// Path to the front controller (this file) directory
+	define('FCPATH', dirname(__FILE__).DIRECTORY_SEPARATOR);
+
+	// Name of the "system" directory
+	define('SYSDIR', basename(BASEPATH));
+
+	// The path to the "application" directory
+	if (is_dir($application_folder))
+	{
+		if (($_temp = realpath($application_folder)) !== FALSE)
+		{
+			$application_folder = $_temp;
+		}
+		else
+		{
+			$application_folder = strtr(
+				rtrim($application_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(BASEPATH.$application_folder.DIRECTORY_SEPARATOR))
+	{
+		$application_folder = BASEPATH.strtr(
+			trim($application_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your application folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('APPPATH', $application_folder.DIRECTORY_SEPARATOR);
+
+	// The path to the "views" directory
+	if ( ! isset($view_folder[0]) && is_dir(APPPATH.'views'.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.'views';
+	}
+	elseif (is_dir($view_folder))
+	{
+		if (($_temp = realpath($view_folder)) !== FALSE)
+		{
+			$view_folder = $_temp;
+		}
+		else
+		{
+			$view_folder = strtr(
+				rtrim($view_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(APPPATH.$view_folder.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.strtr(
+			trim($view_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your view folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
