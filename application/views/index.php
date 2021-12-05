@@ -25,7 +25,7 @@
 							<div class="col-6 col-md-3">
 								<div class="logo">
 									<a href="/">
-										<img src="<?= base_url() ?>/assets/images/logo.png" class="img-fluid" alt="scavvios">
+										<img src="<?= base_url() ?>/assets/images/logo.png" class="img-fluid" alt="Logo PT Alpha Konstruksi Nusantara" title='Logo Alpha Konstruksi Nusantara'>
 									</a>
 								</div>
 							</div>
@@ -73,13 +73,13 @@
 									<div class="position-relative ibCaptionHolder">
 										<h1 class="text-capitalize mb-3 mb-md-5">
 											<strong class="fwMedium d-block text-white position-relative headingTitle text-capitalize mb-3 mb-md-5 wow fadeInLeft" data-wow-delay="2s">Boredpile Contractor</strong>
-											<span class="d-block wow fadeInLeft text-white" data-wow-delay="2.5s">PT. Alpha Konstruksi Nusantara</span>
+											<span class="d-block wow fadeInLeft text-white" data-wow-delay="2.5s">PT Alpha Konstruksi Nusantara</span>
 										</h1>
 									</div>
 								</div>
 								<div class="col-12 col-md-6 position-static">
 									<div class="ibImgHolder wow fadeInRight" data-wow-delay="3.6s">
-										<img src="images/machines.webp" class="img-fluid" alt="Machines">
+										<img src="<?= base_url() ?>/assets/images/machines.webp" class="img-fluid" alt="Machines">
 									</div>
 								</div>
 							</div>
@@ -109,6 +109,8 @@
 										<h3 class="text-white fwMedium wow fadeInRight" data-wow-delay="0.9s">Kontraktor geoteknik berbasis di Indonesia dengan pengalaman lebih dari 10 tahun.</h3>
 									</header>
 									<p class="wow fadeInRight" data-wow-delay="0.7s"><strong>Alpha Konstruksi Nusantara</strong>(sebelumnya Alpha Power Indonusa), didirikan pada tahun 2011, merupakan perusahaan kontraktor geoteknik yang memiliki spesialisasi pada pembuatan pondasi dalam yaitu tian bor. Saat ini kami telah menyelesaikan beragam proyek pondasi di Indonesia.</p>
+
+									<a role='button' href='<?= site_url('About') ?>' class='btn btn-default'>Pelajari Selengkapnya Tentang Kami</a>
 								</div>
 								<div class="col-12 col-md-6 order-md-1">
 									<div class="abFeaturesWrap mx-auto mx-md-0 position-relative">
@@ -126,6 +128,12 @@
 												</div>
 											</li>
 										</ul>
+										<div data-wow-delay="1.8s" class='wow fadeIn'>
+											<video controls class='w-100 fadeIn'>
+												<source src='<?= base_url() ?>/assets/images/video.mp4' type='video/mp4'>
+											</video>
+										</div>
+										
 										<span class="edot edotsizesm edot5 position-absolute rounded-circle bg-warning wow fadeIn" data-wow-delay="2.3s"></span>
 										<span class="edot edotsizesm edot6 position-absolute rounded-circle bg-warning wow fadeIn" data-wow-delay="2.7s"></span>
 										<span class="edot edotsizesm edot7 position-absolute rounded-circle bg-warning wow fadeIn" data-wow-delay="3s"></span>
@@ -151,7 +159,7 @@
 									<article class="msColumn position-relative bg-dark rounded-lg pt-14 pb-1 px-6 w-100 mb-13 text-white wow fadeInUp" data-wow-delay="1s">
 										<span class="mscIcnWrap rounded-circle d-flex align-items-center text-center position-absolute wow bounceIn" data-wow-delay="1.3s">
 											<span class="w-100">
-												<img src="images/ico01.svg" width="34" height="34" alt="icon">
+												<img src="<?= base_url() ?>/assets/images/ico01.svg" width="34" height="34" alt="icon">
 											</span>
 										</span>
 										<h3 class="h5 hasLineBottom fwMedium text-capitalize text-white position-relative pb-4 mb-5">Bored Piles / Tiang Bor</h3>
@@ -177,7 +185,7 @@
 										<!-- mcwColumn -->
 										<article class="position-relative mcwColumn text-center mb-6">
 											<div class="imgHolder">
-												<img src="images/project-01.webp" class="img-fluid" alt="Pengeboran Sekolah Citra Kasih, Semarang" width="370" height="260">
+												<img src="<?= base_url() ?>/assets/images/project-01.webp" class="img-fluid" alt="Pengeboran Sekolah Citra Kasih, Semarang" width="370" height="260">
 											</div>
 											<!-- mcwcCaption -->
 											<div class="mcwcCaption text-white position-absolute d-flex align-items-center">
@@ -192,7 +200,7 @@
 										<!-- mcwColumn -->
 										<article class="position-relative mcwColumn text-center mb-6">
 											<div class="imgHolder">
-												<img src="images/project-02.webp" class="img-fluid" alt="Logos Metrolink, Jakarta">
+												<img src="<?= base_url() ?>/assets/images/project-02.webp" class="img-fluid" alt="Logos Metrolink, Jakarta">
 											</div>
 											<!-- mcwcCaption -->
 											<div class="mcwcCaption text-white position-absolute d-flex align-items-center">
@@ -207,7 +215,7 @@
 										<!-- mcwColumn -->
 										<article class="position-relative mcwColumn text-center mb-6">
 											<div class="imgHolder">
-												<img src="images/project-03.webp" class="img-fluid" alt="AIS Tunnel, Jakarta">
+												<img src="<?= base_url() ?>/assets/images/project-03.webp" class="img-fluid" alt="AIS Tunnel, Jakarta">
 											</div>
 											<!-- mcwcCaption -->
 											<div class="mcwcCaption text-white position-absolute d-flex align-items-center">
@@ -222,7 +230,7 @@
 										<!-- mcwColumn -->
 										<article class="position-relative mcwColumn text-center mb-6">
 											<div class="imgHolder">
-												<img src="images/project-04.webp" class="img-fluid" alt="Logos Metrolink">
+												<img src="<?= base_url() ?>/assets/images/project-04.webp" class="img-fluid" alt="Logos Metrolink">
 											</div>
 											<!-- mcwcCaption -->
 											<div class="mcwcCaption text-white position-absolute d-flex align-items-center">
@@ -237,7 +245,7 @@
 										<!-- mcwColumn -->
 										<article class="position-relative mcwColumn text-center mb-6">
 											<div class="imgHolder">
-												<img src="images/project-04.webp" class="img-fluid" alt="Jembatan Kali Kolop dan Jembatan Kali Itam 2">
+												<img src="<?= base_url() ?>/assets/images/project-04.webp" class="img-fluid" alt="Jembatan Kali Kolop dan Jembatan Kali Itam 2">
 											</div>
 											<!-- mcwcCaption -->
 											<div class="mcwcCaption text-white position-absolute d-flex align-items-center">
@@ -265,34 +273,34 @@
 								</header>
 								<ul class="list-unstyled sponsorsList d-flex flex-wrap mb-0 text-center text-md-left">
 									<li class="wow bounceIn" data-wow-delay="0.9s">
-										<img src="images/client-01.png" class="img-fluid" alt="U Residence, Jakarta" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-01.png" class="img-fluid" alt="U Residence, Jakarta" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="1.2s">
-										<img src="images/client-02.png" class="img-fluid" alt="Pupuk Urea Indonesia" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-02.png" class="img-fluid" alt="Pupuk Urea Indonesia" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="1.5s">
-										<img src="images/client-03.png" class="img-fluid" alt="Bandung Independent School, Bandung" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-03.png" class="img-fluid" alt="Bandung Independent School, Bandung" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="1.8s">
-										<img src="images/client-04.png" class="img-fluid" alt="Australian Independent School, Jakarta" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-04.png" class="img-fluid" alt="Australian Independent School, Jakarta" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="2.1s">
-										<img src="images/client-05.png" class="img-fluid" alt="Sekolah Citra Kasih, Semarang" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-05.png" class="img-fluid" alt="Sekolah Citra Kasih, Semarang" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="2.4s">
-										<img src="images/client-06.png" class="img-fluid" alt="GSK, Pulo Gadung" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-06.png" class="img-fluid" alt="GSK, Pulo Gadung" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="2.7s">
-										<img src="images/client-07.png" class="img-fluid" alt="Oyama Plaza, Sunter" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-07.png" class="img-fluid" alt="Oyama Plaza, Sunter" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="3s">
-										<img src="images/client-08.png" class="img-fluid" alt="Stasiun Kranji, Bekasi" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-08.png" class="img-fluid" alt="Stasiun Kranji, Bekasi" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="3.2s">
-										<img src="images/client-09.png" class="img-fluid" alt="Cadstone Apartment, Cikarang" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-09.png" class="img-fluid" alt="Cadstone Apartment, Cikarang" width="150" height="80">
 									</li>
 									<li class="wow bounceIn" data-wow-delay="3.4s">
-										<img src="images/client-10.png" class="img-fluid" alt="Pondok Indah Mall 3, Jakarta" width="150" height="80">
+										<img src="<?= base_url() ?>/assets/images/client-10.png" class="img-fluid" alt="Pondok Indah Mall 3, Jakarta" width="150" height="80">
 									</li>
 								</ul>
 							</div>

@@ -50,7 +50,7 @@
 								<div class='col-12'><p>Jika mencari kontraktor bor Indonesia, Anda harus berkenalan dengan PT Alpha Konstruksi Nusantara sebagai ahlinya. PT Alpha Konstruksi Nusantara sendiri merupakan divisi pondasi dari sebuah perusahaan bernama PT Alpha Konstruksi Nusantara dan berdiri untuk pertama kali pada tahun 2016</p></div>
 								<div class="col-lg-6 col-md-4 col-sm-10 col-12">
 									<div class="embed-responsive embed-responsive-16by9">
-										<iframe class="w-100 embed-responsive-item" src="<?= base_url() ?>/assets/images/Project.mp4"></iframe>
+										<iframe class="w-100 embed-responsive-item" src="<?= base_url() ?>/assets/images/project.mp4"></iframe>
 									</div>
 								</div>
 								<div class='col-lg-6 col-md-8 col-sm-10 col-12'>
